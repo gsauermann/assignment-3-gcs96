@@ -1,0 +1,15 @@
+---
+title: "georgia"
+author: "Georgia Sauermann"
+date: "2/14/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I'm a senior majoring in biology
+* I like skiing and snowboarding
+* I'm from Seattle
+

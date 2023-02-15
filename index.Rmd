@@ -1,0 +1,15 @@
+---
+title: "Georgia and Matthew's website"
+author: "Georgia Sauermann"
+date: "2/14/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Matthew Gee: https://github.com/matthew-n-gee
+### Georgia Sauermann: https://github.com/gsauermann
+
+![*Cornell University*](https://www.cornell.edu/visit/assets/images/video-poster.jpg)
